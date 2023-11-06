@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/lizSilva27/news_homepage-FrontendMentor/
+- Live Site URL: https://news-homepage-ft.netlify.app
 
 ## My process
 
